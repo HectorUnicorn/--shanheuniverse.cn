@@ -1,0 +1,1 @@
+# 临床医学学院 - School of Clinical Medicine (SCM)
