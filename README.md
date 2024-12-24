@@ -2,7 +2,7 @@
 
 ## 英文名为ShanHe Universe - 山河宇宙，我们网络空间就是我们的宇宙
 
-域名意为：山河宇宙学习指南 - [shanheuniverse.cn](shanheuniverse.cn)
+域名意为：山河宇宙学习指南 - [shanheuniverse.cn](http://shanheuniverse.cn)
 
 ## 这不是一个教育机构，只是一份为了教育平权而设置的大学自学指南
 
