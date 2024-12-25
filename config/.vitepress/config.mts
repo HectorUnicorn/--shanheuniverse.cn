@@ -2,8 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "山河大学",
+  title: "球立山河大学",
   description: "山河宇宙学习指南",
+  lang: "zh_CN",
   themeConfig: {
     logo: "/shanhelogo.png",
     search: {
@@ -11,8 +12,9 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "主页", link: "/" },
+      { text: "主页", link: "/zh" },
       { text: "院系设置", link: "/zh/college-design" },
+      { text: "学习工具", link: "/zh/tools/index" },
     ],
     docFooter: {
       prev: "上一篇",
@@ -30,7 +32,7 @@ export default defineConfig({
         items: [
           { text: "“办学”理念", link: "/zh/principle"},
           { text: "院系设置", link: "/zh/college-design" },
-          { text: "职业评估", link: "/zh/career-guide" },
+          { text: "职业选择", link: "/zh/career-guide" },
           {
             text: "课程设置",
             link: "/zh/course/index",

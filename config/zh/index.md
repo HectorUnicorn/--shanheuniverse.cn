@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "山河大学"
+  name: "球立山河大学"
   text: "山河宇宙学习指南"
-  tagline: 众人拾柴，自强万强
+  tagline: 这不是一所大学，这是一个想进行大学教育的人的自学指南：众人拾柴，自强万强
   image:
     src: /shanhelogo.png
     alt: 徽标
@@ -13,9 +13,9 @@ hero:
     - theme: brand
       text: “ 院系设置 ”
       link: /zh/college-design
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
+    - theme: alt
+      text: “ 伴学理念 ”
+      link: /zh/principle
 
 features:
   - title: 💡 校训

@@ -1,6 +1,6 @@
 # 院系设置
 
-综合中美欧的情况，拟设计如下8个学院，每个学院又分多个领域的二级学院或专业。
+综合中美欧的情况，拟设计如下9个学院，每个学院又分多个领域的二级学院或专业。
 
 - [人文与社会科学学院](./college/shss/index)
 - [自然科学学院](./college/sns/index)
@@ -15,10 +15,6 @@
 
 -> [计算机科学与技术](./college/set/sice/computer-sience/index)
 
-
-> 需要你的共创：微信添加，注明 **“山河共创”**
-> <img src="https://m.lifepage.cc/ewx_qrcode.png" width="150" height="150" />
-> 或在github项目中提交pr或发起讨论。
 
 # **综合性院系设计与专业目录**
 
