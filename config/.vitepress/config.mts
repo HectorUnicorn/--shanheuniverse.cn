@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "球立山河大学",
+  title: "山河-大学学习指南",
   description: "山河宇宙学习指南",
   lang: "zh_CN",
   themeConfig: {
@@ -12,8 +12,8 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "主页", link: "/zh" },
-      { text: "院系设置", link: "/zh/college-design" },
+      { text: "主页", link: "/" },
+      { text: "‘愿’系设置", link: "/zh/college-design" },
       { text: "学习工具", link: "/zh/tools/index" },
     ],
     docFooter: {
@@ -30,8 +30,8 @@ export default defineConfig({
       {
         text: "学校指南",
         items: [
-          { text: "“办学”理念", link: "/zh/principle"},
-          { text: "院系设置", link: "/zh/college-design" },
+          { text: "“伴学”理念", link: "/zh/principle"},
+          { text: "‘愿’系设置", link: "/zh/college-design" },
           { text: "职业选择", link: "/zh/career-guide" },
           {
             text: "课程设置",
@@ -179,6 +179,10 @@ export default defineConfig({
         link: "https://github.com/HectorUnicorn/shanheuniverse.cn",
       },
     ],
+    footer: {
+      copyright: 'Copyright © 2022-2023 北京述思网络科技有限公司',
+      message: '<a href="https://beian.miit.gov.cn">京ICP备2023032385号-3</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=11010802043470">京公网安备11010802043470号</a>',
+    }
   },
   locales: {
     root: {
@@ -188,7 +192,7 @@ export default defineConfig({
     zh: {
       label: "中文",
       lang: "zh_CN", // 可选，将作为 `lang` 属性添加到 `html` 标签中
-      link: "/zh/index", // 默认 /fr/ -- 显示在导航栏翻译菜单上，可以是外部的
+      link: "/index", // 默认 /fr/ -- 显示在导航栏翻译菜单上，可以是外部的
       // 其余 locale 特定属性...
     },
   },

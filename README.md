@@ -1,4 +1,4 @@
-# 山河大学宇宙-shanheuniverse.cn
+# 山河宇宙-shanheuniverse.cn
 
 ## 英文名为ShanHe Universe - 山河宇宙，我们网络空间就是我们的宇宙
 

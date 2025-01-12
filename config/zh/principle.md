@@ -39,6 +39,4 @@
 
 # 共创社区
 
-> 需要你的共创：微信添加，注明 **“山河共创”**
-> <img src="https://m.lifepage.cc/ewx_qrcode.png" width="150" height="150" />
 > 或在github项目中提交pr或发起讨论。
